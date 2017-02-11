@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Acr.UserDialogs;
+using RESTly.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,6 +14,7 @@ namespace RESTly
         public MainPage()
         {
             InitializeComponent();
+            BindingContext = new RestViewModel(UserDialogs.Instance);
         }
     }
 }
