@@ -113,8 +113,10 @@
     <None Include="Windows_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Assets\Logo300x300.png" />
-    <Content Include="Assets\Logo88x88.png" />
+    <Content Include="Assets\Logo300x300.scale-100.png" />
+    <Content Include="Assets\Logo300x300.scale-200.png" />
+    <Content Include="Assets\Logo88x88.scale-100.png" />
+    <Content Include="Assets\Logo88x88.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />
     <Content Include="Assets\StoreLogo.scale-100.png" />
     <Content Include="Assets\StoreLogo.scale-200.png" />

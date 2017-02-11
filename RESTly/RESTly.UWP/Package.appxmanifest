@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="64186ChristophStettner.RESTly" Publisher="CN=3D24654A-48EF-4E37-A8FC-CC3D8E9395EA" Version="1.1.0.0" />
+  <Identity Name="64186ChristophStettner.RESTly" Publisher="CN=3D24654A-48EF-4E37-A8FC-CC3D8E9395EA" Version="1.1.2.0" />
   <mp:PhoneIdentity PhoneProductId="6cddcc14-8666-4c44-9144-14af8ed3f5e4" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>RESTly</DisplayName>
